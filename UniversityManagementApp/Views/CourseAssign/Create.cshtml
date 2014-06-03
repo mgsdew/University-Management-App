@@ -1,0 +1,81 @@
+﻿@using UniversityManagementApp.Models
+@model UniversityManagementApp.Models.CourseAssign
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Assign course to teacher</h2>
+<h3 class="error">@ViewBag.Message</h3><br/>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>CourseAssign</legend>
+      
+        
+        <div class="editor-label">
+        Department
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("DepartmentId", null, "Select Department")
+            <input type="submit" name="Command" value="Select" />
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.TeacherId, "Teacher")
+        </div>
+        <div class="editor-field">
+            <div id="department-teacher">
+               @Html.DropDownList("TeacherId", String.Empty)
+            </div>
+            @Html.ValidationMessageFor(model => model.TeacherId)
+        </div>
+        
+        <div id="teacher-info" style="margin:10px;margin-left: 30px">
+            @Html.Partial("~/Views/Shared/_EmptyViewTeacherInfo.cshtml")
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.CourseId, "Course")
+        </div>
+        <div class="editor-field">
+            <div id="department-courses">
+                @Html.DropDownList("CourseId", String.Empty)
+            </div>
+            @Html.ValidationMessageFor(model => model.CourseId)
+        </div>
+        
+        <div id="course-info" style="margin:10px;margin-left: 30px">
+            @Html.Partial("~/Views/Shared/_EmptyViewcourseInfo.cshtml")
+        </div>
+        
+        <p>
+                <input type="submit" name="Command" value="Assign" />
+            </p>
+</fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+
+@Scripts.Render("~/bundles/jqueryui")
+<script type="text/javascript">
+    $(function () {
+        
+        $("#TeacherId").change(function () {
+            var id = $("#TeacherId").val();
+            $("#teacher-info").load("/Teacher/ViewTeacherInfo", { teacherId: id });
+        });
+
+        $("#CourseId").change(function () {
+            var id = $("#CourseId").val();
+            $("#course-info").load("/Course/ViewCourseInfo", { courseId: id });
+        });
+        
+    });
+</script>

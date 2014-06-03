@@ -1,0 +1,29 @@
+﻿@model UniversityManagementApp.Models.CourseAssign
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>CourseAssign</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Teacher.Name)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Teacher.Name)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Course.Code)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Course.Code)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.CourseAssignId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

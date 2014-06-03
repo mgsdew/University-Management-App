@@ -1,0 +1,53 @@
+﻿@model IEnumerable<UniversityManagementApp.Models.AllocateClassRoom>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>Course 
+            @Html.DisplayNameFor(model => model.Course.Code)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Department.Name)
+        </th>
+        
+        <th>
+            Schedule information
+        </th>
+       
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        
+        <td>
+            @Html.DisplayFor(modelItem => item.Course.Code)
+        </td>
+        <td>
+             @Html.DisplayFor(modelItem => item.Course.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ClassRoom.RoomNo)
+         
+            @Html.DisplayFor(modelItem => item.WeekDay.Day)
+         
+            @Html.DisplayFor(modelItem => item.StarTimeHour)
+        :
+            @Html.DisplayFor(modelItem => item.StarTimeMin)
+        
+            @Html.DisplayFor(modelItem => item.EndTimeHour)
+        :
+            @Html.DisplayFor(modelItem => item.EndTimeMin)
+        </td>
+        
+    </tr>
+}
+
+</table>

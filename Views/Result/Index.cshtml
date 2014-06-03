@@ -1,0 +1,33 @@
+﻿@model IEnumerable<UniversityManagementApp.Models.Result>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+<h2>Result</h2>
+@using (Html.BeginForm())
+{
+    @Html.DropDownList("StudentId", String.Empty)
+}
+
+<div id="student-info" style="margin:10px;margin-left: 30px">
+    @Html.Partial("~/Views/Shared/_EmptyViewStudentinfo.cshtml")
+</div>
+
+<div id="view-result" style="margin:10px;margin-left: 30px">
+    @Html.Partial("~/Views/Shared/_EmptyResultView.cshtml")
+</div>
+
+@Scripts.Render("~/bundles/jqueryui")
+<script type="text/javascript">
+    $(function () {
+        $("#StudentId").change(function () {
+            var id = $("#StudentId").val();
+            $("#student-info").load("/Student/ViewStudentInfo", { studentId: id });
+            $("#view-result").load("/Result/ViewStudentResult", { studentId: id });
+        });
+        
+    });
+</script>

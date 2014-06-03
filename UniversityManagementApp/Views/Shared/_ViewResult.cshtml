@@ -1,0 +1,31 @@
+﻿@model IEnumerable<UniversityManagementApp.Models.Result>
+<table>
+    <tr>
+        <th>
+           Course Code
+        </th>
+        <th>
+            Name
+        </th>
+        <th>
+           Grade
+        </th>
+        
+    </tr>
+    @foreach(var model in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => model.Course.Code)
+            </td>
+            <td>
+               @Html.DisplayFor(modelItem => model.Course.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => model.ResultGrade.GradeLater)
+            </td>
+            
+        </tr>
+    }
+
+</table>

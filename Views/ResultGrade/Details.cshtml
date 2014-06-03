@@ -1,0 +1,29 @@
+﻿@model UniversityManagementApp.Models.ResultGrade
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>ResultGrade</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.GradeLater)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.GradeLater)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.GradeValue)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.GradeValue)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ResultGradeId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

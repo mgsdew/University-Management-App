@@ -1,0 +1,36 @@
+﻿@model UniversityManagementApp.Models.ClassRoom
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>ClassRoom</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.RoomNo)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.RoomNo)
+            @Html.ValidationMessageFor(model => model.RoomNo)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

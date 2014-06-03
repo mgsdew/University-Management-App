@@ -1,0 +1,39 @@
+﻿@model IEnumerable<UniversityManagementApp.Models.ViewCourseStatus>
+
+@{
+    ViewBag.Title = "index";
+}
+
+<h2>Course Status</h2>
+
+<fieldset>
+    <h3>
+        Department
+    </h3>
+    @using (Html.BeginForm())
+    {
+
+        <div class="editor-field">
+            @Html.DropDownList("DepartmentId", null, "All Departments")
+        </div>
+    }
+    
+</fieldset>
+<div id="filtered-section">
+    @Html.Partial("~/Views/Shared/_ViewCourseStatus.cshtml")
+</div>
+<h1>
+    @ViewBag.Message
+</h1>
+
+
+    @Scripts.Render("~/bundles/jqueryui")
+    <script type="text/javascript">
+        $(function () {
+            $("#DepartmentId").change(function () {
+                var id = $("#DepartmentId").val();
+                $("#filtered-section").load("/ViewCourseStatus/FilterView", { departmentId: id });
+            });
+
+        });
+    </script>

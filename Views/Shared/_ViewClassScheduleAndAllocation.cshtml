@@ -1,0 +1,40 @@
+﻿@model IEnumerable<UniversityManagementApp.Models.ViewClassSchedule>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CourseCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CourseName)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.ScheduleInfo)
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ScheduleInfo)
+            </td>
+
+        </tr>
+    }
+
+</table>

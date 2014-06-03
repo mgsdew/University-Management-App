@@ -1,0 +1,42 @@
+﻿@using System.Web.UI.WebControls
+@model IEnumerable<UniversityManagementApp.Models.ViewCourseStatus>
+
+@{
+    ViewBag.Title = "Status";
+}
+<h2>Status</h2>
+
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Code)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Teacher)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Semester)
+        </th>
+    </tr>
+    @foreach (var aCourseStatus in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => aCourseStatus.Code)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => aCourseStatus.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => aCourseStatus.Teacher)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => aCourseStatus.Semester)
+            </td>
+        </tr>
+    }
+
+</table>

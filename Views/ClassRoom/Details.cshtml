@@ -1,0 +1,22 @@
+﻿@model UniversityManagementApp.Models.ClassRoom
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>ClassRoom</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.RoomNo)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.RoomNo)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ClassRoomId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

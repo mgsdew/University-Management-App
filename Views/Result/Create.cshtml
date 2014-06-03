@@ -1,0 +1,75 @@
+﻿@model UniversityManagementApp.Models.Result
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Result</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.StudentId, "Student")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("StudentId", String.Empty)
+            @Html.ValidationMessageFor(model => model.StudentId)
+        </div>
+
+        <div id="student-info" style="margin:10px;margin-left: 30px">
+            @Html.Partial("~/Views/Shared/_EmptyViewStudentinfo.cshtml")
+        </div>
+
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.CourseId, "Course")
+        </div>
+        <div class="editor-field">
+            <div id="department-courses">
+                @Html.Partial("~/Views/Shared/_DepartmentCourses.cshtml")
+            </div>
+            @Html.ValidationMessageFor(model => model.CourseId)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ResultGradeId, "ResultGrade")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("ResultGradeId", String.Empty)
+            @Html.ValidationMessageFor(model => model.ResultGradeId)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+@Scripts.Render("~/bundles/jqueryui")
+<script type="text/javascript">
+    $(function () {
+        $("#StudentId").change(function () {
+            var id = $("#StudentId").val();
+            $("#student-info").load("/Student/ViewStudentInfo", { studentId: id });
+            $("#department-courses").load("/Course/SelectedStudentEnrollCourses", { studentId: id });
+        });
+
+        $("#datepicker").datepicker();
+
+
+    });
+</script>

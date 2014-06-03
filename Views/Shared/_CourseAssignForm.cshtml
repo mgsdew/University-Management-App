@@ -1,0 +1,44 @@
+﻿@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>CourseAssign</legend>
+
+
+
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.TeacherId, "Teacher")
+        </div>
+        <div class="editor-field">
+            <div id="department-teacher">
+                @Html.Partial("~/Views/Shared/_DepartmentTeachers.cshtml")
+            </div>
+            @Html.ValidationMessageFor(model => model.TeacherId)
+        </div>
+
+        <div id="teacher-info" style="margin:10px;margin-left: 30px">
+            @Html.Partial("~/Views/Shared/_EmptyViewTeacherInfo.cshtml")
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.CourseId, "Course")
+        </div>
+        <div class="editor-field">
+            <div id="department-courses">
+                @Html.Partial("~/Views/Shared/_DepartmentCourses.cshtml")
+            </div>
+            @Html.ValidationMessageFor(model => model.CourseId)
+        </div>
+
+        <div id="course-info" style="margin:10px;margin-left: 30px">
+            @Html.Partial("~/Views/Shared/_EmptyViewcourseInfo.cshtml")
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}

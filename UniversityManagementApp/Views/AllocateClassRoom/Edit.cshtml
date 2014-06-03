@@ -1,0 +1,94 @@
+﻿@model UniversityManagementApp.Models.AllocateClassRoom
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>AllocateClassRoom</legend>
+
+        @Html.HiddenFor(model => model.AllocateClassRoomId)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.DepartmentId, "Department")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("DepartmentId", String.Empty)
+            @Html.ValidationMessageFor(model => model.DepartmentId)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.CourseId, "Course")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("CourseId", String.Empty)
+            @Html.ValidationMessageFor(model => model.CourseId)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ClassRoomId, "ClassRoom")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("ClassRoomId", String.Empty)
+            @Html.ValidationMessageFor(model => model.ClassRoomId)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.WeekDayId, "WeekDay")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("WeekDayId", String.Empty)
+            @Html.ValidationMessageFor(model => model.WeekDayId)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.StarTimeHour)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.StarTimeHour)
+            @Html.ValidationMessageFor(model => model.StarTimeHour)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.StarTimeMin)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.StarTimeMin)
+            @Html.ValidationMessageFor(model => model.StarTimeMin)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.EndTimeHour)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.EndTimeHour)
+            @Html.ValidationMessageFor(model => model.EndTimeHour)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.EndTimeMin)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.EndTimeMin)
+            @Html.ValidationMessageFor(model => model.EndTimeMin)
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

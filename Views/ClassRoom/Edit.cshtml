@@ -1,0 +1,38 @@
+﻿@model UniversityManagementApp.Models.ClassRoom
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>ClassRoom</legend>
+
+        @Html.HiddenFor(model => model.ClassRoomId)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.RoomNo)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.RoomNo)
+            @Html.ValidationMessageFor(model => model.RoomNo)
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

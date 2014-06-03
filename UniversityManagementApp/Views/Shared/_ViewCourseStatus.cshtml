@@ -1,0 +1,39 @@
+﻿@model IEnumerable<UniversityManagementApp.Models.ViewCourseStatus>
+
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Code)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Teacher)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Semester)
+        </th>
+    </tr>
+    @foreach (var aCourseStatus in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => aCourseStatus.Code)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => aCourseStatus.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => aCourseStatus.Teacher)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => aCourseStatus.Semester)
+            </td>
+        </tr>
+    }
+
+</table>
+<h1>
+    @ViewBag.Message
+</h1>

@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "CreditOverFlow";
+}
+
+<h2>CreditOverFlow</h2>
+<h3 class="error">@ViewBag.Message</h3><br />
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="Yes" /> |
+        @Html.ActionLink("No", "Index")
+    </p>
+}

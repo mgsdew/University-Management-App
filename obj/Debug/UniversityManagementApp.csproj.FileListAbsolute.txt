@@ -1,0 +1,340 @@
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\UniversityManagementApp.dll.config
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\UniversityManagementApp.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\UniversityManagementApp.pdb
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\Antlr3.Runtime.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\DotNetOpenAuth.AspNet.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\DotNetOpenAuth.Core.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\DotNetOpenAuth.OAuth.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\DotNetOpenAuth.OpenId.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\EntityFramework.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Data.Edm.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Data.OData.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Web.Infrastructure.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\Newtonsoft.Json.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Net.Http.Formatting.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Spatial.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Helpers.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Http.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Http.OData.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Http.WebHost.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Mvc.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Optimization.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Razor.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.Deployment.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.Razor.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\WebGrease.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\WebMatrix.Data.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\WebMatrix.WebData.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\EntityFramework.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\Newtonsoft.Json.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Net.Http.Formatting.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Helpers.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Http.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Http.WebHost.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Mvc.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Razor.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.Deployment.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.Razor.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\WebMatrix.Data.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\WebMatrix.WebData.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\DotNetOpenAuth.AspNet.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\DotNetOpenAuth.Core.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\DotNetOpenAuth.OAuth.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\DotNetOpenAuth.OpenId.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Http.OData.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Data.Edm.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Data.OData.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\System.Spatial.xml
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\de\Microsoft.Data.Edm.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\es\Microsoft.Data.Edm.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\it\Microsoft.Data.Edm.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\de\Microsoft.Data.OData.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\es\Microsoft.Data.OData.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\fr\Microsoft.Data.OData.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\it\Microsoft.Data.OData.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\ja\Microsoft.Data.OData.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\ko\Microsoft.Data.OData.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\ru\Microsoft.Data.OData.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\de\System.Spatial.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\es\System.Spatial.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\fr\System.Spatial.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\it\System.Spatial.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\ja\System.Spatial.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\ko\System.Spatial.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\ru\System.Spatial.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\zh-Hans\System.Spatial.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\bin\zh-Hant\System.Spatial.resources.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+D:\test_project\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.dll
+D:\test_project\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+E:\BASIS\UniversityManagementApp\bin\UniversityManagementApp.dll.config
+E:\BASIS\UniversityManagementApp\bin\UniversityManagementApp.dll
+E:\BASIS\UniversityManagementApp\bin\UniversityManagementApp.pdb
+E:\BASIS\UniversityManagementApp\bin\Microsoft.Web.Infrastructure.dll
+E:\BASIS\UniversityManagementApp\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\BASIS\UniversityManagementApp\bin\Newtonsoft.Json.dll
+E:\BASIS\UniversityManagementApp\bin\System.Net.Http.Formatting.dll
+E:\BASIS\UniversityManagementApp\bin\System.Web.Helpers.dll
+E:\BASIS\UniversityManagementApp\bin\System.Web.Http.dll
+E:\BASIS\UniversityManagementApp\bin\System.Web.Http.WebHost.dll
+E:\BASIS\UniversityManagementApp\bin\System.Web.Mvc.dll
+E:\BASIS\UniversityManagementApp\bin\System.Web.Razor.dll
+E:\BASIS\UniversityManagementApp\bin\System.Web.WebPages.Deployment.dll
+E:\BASIS\UniversityManagementApp\bin\System.Web.WebPages.dll
+E:\BASIS\UniversityManagementApp\bin\System.Web.WebPages.Razor.dll
+E:\BASIS\UniversityManagementApp\bin\WebMatrix.Data.dll
+E:\BASIS\UniversityManagementApp\bin\WebMatrix.WebData.dll
+E:\BASIS\UniversityManagementApp\bin\Microsoft.Web.Infrastructure.xml
+E:\BASIS\UniversityManagementApp\bin\System.Net.Http.Formatting.xml
+E:\BASIS\UniversityManagementApp\bin\System.Web.Helpers.xml
+E:\BASIS\UniversityManagementApp\bin\System.Web.Http.xml
+E:\BASIS\UniversityManagementApp\bin\System.Web.Http.WebHost.xml
+E:\BASIS\UniversityManagementApp\bin\System.Web.Mvc.xml
+E:\BASIS\UniversityManagementApp\bin\System.Web.Razor.xml
+E:\BASIS\UniversityManagementApp\bin\System.Web.WebPages.xml
+E:\BASIS\UniversityManagementApp\bin\System.Web.WebPages.Deployment.xml
+E:\BASIS\UniversityManagementApp\bin\System.Web.WebPages.Razor.xml
+E:\BASIS\UniversityManagementApp\bin\WebMatrix.Data.xml
+E:\BASIS\UniversityManagementApp\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\BASIS\UniversityManagementApp\bin\WebMatrix.WebData.xml
+E:\BASIS\UniversityManagementApp\obj\Debug\UniversityManagementApp.dll
+E:\BASIS\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+E:\BASIS\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\UniversityManagementApp.dll.config
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\UniversityManagementApp.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\UniversityManagementApp.pdb
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\Newtonsoft.Json.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Net.Http.Formatting.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Web.Helpers.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Web.Http.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Web.Http.WebHost.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Web.Mvc.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Web.Razor.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Web.WebPages.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\WebMatrix.Data.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\WebMatrix.WebData.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Net.Http.Formatting.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Web.Helpers.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Web.Http.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Web.Http.WebHost.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Web.Mvc.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Web.Razor.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Web.WebPages.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\WebMatrix.Data.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\WebMatrix.WebData.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\UniversityManagementApp\obj\Debug\UniversityManagementApp.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\UniversityManagementApp.dll.config
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\UniversityManagementApp.dll
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\UniversityManagementApp.pdb
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\Newtonsoft.Json.dll
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\System.Web.Helpers.dll
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\System.Web.Http.dll
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\System.Web.Mvc.dll
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\System.Web.Razor.dll
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\System.Web.WebPages.dll
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\WebMatrix.Data.dll
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\WebMatrix.WebData.dll
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\System.Web.Helpers.xml
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\System.Web.Http.xml
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\System.Web.Mvc.xml
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\System.Web.Razor.xml
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\System.Web.WebPages.xml
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\WebMatrix.Data.xml
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Faisal\Desktop\UniversityManagementApp\bin\WebMatrix.WebData.xml
+C:\Users\Faisal\Desktop\UniversityManagementApp\obj\Debug\UniversityManagementApp.dll
+C:\Users\Faisal\Desktop\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+E:\BASIS\_Project\UniversityManagementApp\bin\UniversityManagementApp.dll.config
+E:\BASIS\_Project\UniversityManagementApp\bin\UniversityManagementApp.dll
+E:\BASIS\_Project\UniversityManagementApp\bin\UniversityManagementApp.pdb
+E:\BASIS\_Project\UniversityManagementApp\bin\Microsoft.Web.Infrastructure.dll
+E:\BASIS\_Project\UniversityManagementApp\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\BASIS\_Project\UniversityManagementApp\bin\Newtonsoft.Json.dll
+E:\BASIS\_Project\UniversityManagementApp\bin\System.Net.Http.Formatting.dll
+E:\BASIS\_Project\UniversityManagementApp\bin\System.Web.Helpers.dll
+E:\BASIS\_Project\UniversityManagementApp\bin\System.Web.Http.dll
+E:\BASIS\_Project\UniversityManagementApp\bin\System.Web.Http.WebHost.dll
+E:\BASIS\_Project\UniversityManagementApp\bin\System.Web.Mvc.dll
+E:\BASIS\_Project\UniversityManagementApp\bin\System.Web.Razor.dll
+E:\BASIS\_Project\UniversityManagementApp\bin\System.Web.WebPages.Deployment.dll
+E:\BASIS\_Project\UniversityManagementApp\bin\System.Web.WebPages.dll
+E:\BASIS\_Project\UniversityManagementApp\bin\System.Web.WebPages.Razor.dll
+E:\BASIS\_Project\UniversityManagementApp\bin\WebMatrix.Data.dll
+E:\BASIS\_Project\UniversityManagementApp\bin\WebMatrix.WebData.dll
+E:\BASIS\_Project\UniversityManagementApp\bin\Microsoft.Web.Infrastructure.xml
+E:\BASIS\_Project\UniversityManagementApp\bin\System.Net.Http.Formatting.xml
+E:\BASIS\_Project\UniversityManagementApp\bin\System.Web.Helpers.xml
+E:\BASIS\_Project\UniversityManagementApp\bin\System.Web.Http.xml
+E:\BASIS\_Project\UniversityManagementApp\bin\System.Web.Http.WebHost.xml
+E:\BASIS\_Project\UniversityManagementApp\bin\System.Web.Mvc.xml
+E:\BASIS\_Project\UniversityManagementApp\bin\System.Web.Razor.xml
+E:\BASIS\_Project\UniversityManagementApp\bin\System.Web.WebPages.xml
+E:\BASIS\_Project\UniversityManagementApp\bin\System.Web.WebPages.Deployment.xml
+E:\BASIS\_Project\UniversityManagementApp\bin\System.Web.WebPages.Razor.xml
+E:\BASIS\_Project\UniversityManagementApp\bin\WebMatrix.Data.xml
+E:\BASIS\_Project\UniversityManagementApp\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\BASIS\_Project\UniversityManagementApp\bin\WebMatrix.WebData.xml
+E:\BASIS\_Project\UniversityManagementApp\obj\Debug\UniversityManagementApp.dll
+E:\BASIS\_Project\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\Antlr3.Runtime.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\DotNetOpenAuth.Core.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\EntityFramework.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\Microsoft.Data.Edm.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\Microsoft.Data.OData.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Spatial.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Web.Http.OData.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Web.Optimization.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\WebGrease.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\EntityFramework.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\Newtonsoft.Json.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\DotNetOpenAuth.Core.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Web.Http.OData.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\Microsoft.Data.Edm.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\Microsoft.Data.OData.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\System.Spatial.xml
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\de\System.Spatial.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\es\System.Spatial.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\fr\System.Spatial.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\it\System.Spatial.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\ja\System.Spatial.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\ko\System.Spatial.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\ru\System.Spatial.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\PC21\Desktop\UniversityManagementApp\bin\zh-Hant\System.Spatial.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\UniversityManagementApp.dll.config
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\UniversityManagementApp.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\UniversityManagementApp.pdb
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Net.Http.Formatting.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Web.Helpers.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Web.Http.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Web.Http.WebHost.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Web.Mvc.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Web.Razor.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Web.WebPages.Deployment.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Web.WebPages.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Web.WebPages.Razor.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\WebMatrix.Data.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\WebMatrix.WebData.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\EntityFramework.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\Microsoft.Web.Infrastructure.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\Newtonsoft.Json.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Net.Http.Formatting.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Web.Helpers.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Web.Http.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Web.Http.WebHost.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Web.Mvc.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Web.Razor.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Web.WebPages.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Web.WebPages.Deployment.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Web.WebPages.Razor.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\WebMatrix.Data.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\WebMatrix.WebData.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\DotNetOpenAuth.AspNet.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\DotNetOpenAuth.Core.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\DotNetOpenAuth.OAuth.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\DotNetOpenAuth.OpenId.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Web.Http.OData.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\Microsoft.Data.Edm.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\Microsoft.Data.OData.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\System.Spatial.xml
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\de\Microsoft.Data.OData.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\es\Microsoft.Data.OData.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\it\Microsoft.Data.OData.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\de\System.Spatial.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\es\System.Spatial.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\fr\System.Spatial.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\it\System.Spatial.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\ja\System.Spatial.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\ko\System.Spatial.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\ru\System.Spatial.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\zh-Hans\System.Spatial.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\bin\zh-Hant\System.Spatial.resources.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\obj\Debug\UniversityManagementApp.dll
+F:\Practice\Project\Project Presentation 45th batch\Code Geeks\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb

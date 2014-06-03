@@ -1,0 +1,22 @@
+﻿@model UniversityManagementApp.Models.WeekDay
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>WeekDay</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Day)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Day)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.WeekDayId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,38 @@
+﻿@model IEnumerable<UniversityManagementApp.Models.AllocateClassRoom>
+
+@{
+    ViewBag.Title = "index";
+}
+<h2>View Class Schedule And Allocation</h2>
+
+<fieldset>
+    <h3>
+        Department
+    </h3>
+    @using (Html.BeginForm())
+    {
+
+        <div class="editor-field">
+            @Html.DropDownList("DepartmentId", null, "All Departments")
+        </div>
+    }
+
+</fieldset>
+<div id="filtered-section">
+    Select A Department
+</div>
+<h1>
+    @ViewBag.Message
+</h1>
+
+
+@Scripts.Render("~/bundles/jqueryui")
+<script type="text/javascript">
+    $(function () {
+        $("#DepartmentId").change(function () {
+            var id = $("#DepartmentId").val();
+            $("#filtered-section").load("/AllocateClassRoom/FilterView", { departmentId: id });
+        });
+
+    });
+</script>
